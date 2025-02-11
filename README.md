@@ -9,7 +9,7 @@ The LEMP is an acronym that describes a Linux operating system, with an Nginx (p
 - AWS Account (Free tier)
 - Launch EC2 with Ubuntu AMI, and instance type t2.micro 
 
-## Setup a LAMP Stack on Ubuntu
+## Setup a LEMP Stack on Ubuntu
 - Install Nginx
 - Install MySQL Database
 - Install PHP
